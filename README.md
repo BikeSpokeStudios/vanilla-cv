@@ -2,7 +2,9 @@
 
 This resume is built using
 
--  Vanilla framework
--  yarn package manager
--  postcss
+-  Vanilla CSS Framework (vanillaframework.io)
+-  NPM
+-  Dart-Sass (sass-lang.com)
+
+
 
