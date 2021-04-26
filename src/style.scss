@@ -1,0 +1,17 @@
+@import 'vanilla-framework/scss/vanilla';
+
+@include vanilla;
+@include vf-p-icon-comments;
+@include vf-p-icon-get-link;
+@include vf-p-icon-pin;
+
+.p-list .p-list__item i {
+    margin-right: 15px;
+}
+.p-list .p-list__item a {
+    color: #f7f7f7;
+}
+
+.resume-footer div div div a {
+    margin-right: 15px;
+}
